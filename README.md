@@ -1,1 +1,1 @@
-# mailchimTemplate
+#mailchimptemplate
